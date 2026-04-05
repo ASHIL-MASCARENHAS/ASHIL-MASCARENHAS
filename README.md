@@ -1,31 +1,20 @@
 # Ashil Mascarenhas
-**Quantitative Data Analysis | Statistical Modeling | Data Infrastructure**
+**Product Analytics | Data Engineering | Marketplace Economics**
 
-Computer Science (AI) undergraduate at Manipal Institute of Technology (MIT) specializing in financial data infrastructure and statistical modeling. 
+I am a CSE-AI undergraduate at the Manipal Institute of Technology (MIT) specializing in the intersection of heavy data engineering and product strategy. I build scalable pipelines to process massive datasets and translate complex statistical models into actionable business metrics.
 
-### Core Focus
-* **Data Engineering:** Architecting automated ETL pipelines for high-frequency market data using Python and PostgreSQL.
-* **Quantitative Analysis:** Developing vectorized backtesting engines using Pandas and NumPy to simulate statistical arbitrage strategies.
-* **Academic Research:** Investigating event-driven representations of financial time-series for low-latency anomaly detection.
+### 🚀 Flagship Project
+* **[Dynamic Surge Pricing & Marketplace Optimization Engine](https://github.com/ASHIL-MASCARENHAS/Dynamic-Surge-Pricing-Engine):** Engineered a dynamic pricing algorithm from scratch using **DuckDB** to process 30M+ rows of mobility data in-memory. Authored advanced SQL Window Functions to calculate rolling demand spikes and simulated an $8.3M (+5.51%) GMV lift while factoring in price elasticity constraints to protect LTV.
 
-### Technical Stack
-* **Languages:** Python, C++, SQL, Java
-* **Data Ecosystem:** Pandas, NumPy, Scikit-Learn, PostgreSQL, MongoDB
-* **Infrastructure:** Docker, Git, AWS (S3, Lambda)
+### 🧠 Core Focus
+* **Product Analytics:** Translating raw database tables into revenue strategies, cohort retention models, and A/B testing frameworks.
+* **Data Engineering:** Bypassing standard Pandas limitations by utilizing modern OLAP tools (DuckDB) and SQL CTEs to handle high-volume data aggregation.
+* **Quantitative Modelling:** Applying probability and statistical modelling to solve real-world marketplace liquidity problems.
 
-*Currently building a vectorized backtesting engine and a market data ETL pipeline.*
+### 🛠️ Technical Stack
+* **Data Ecosystem:** SQL (Advanced Window Functions), DuckDB, Pandas, Scikit-Learn
+* **Languages:** Python, C++, Java
+* **BI & Visualization:** Matplotlib, Seaborn, Excel, Power BI
+* **Infrastructure:** Git, Linux/Bash, ETL Pipelines
 
-<!--
-**ASHIL-MASCARENHAS/ASHIL-MASCARENHAS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Reach me at:** [ashilmascarenhas@gmail.com](mailto:ashilmascarenhas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashil-mascarenhas/) | [Portfolio](https://portfolio.builtbyashil.site/)
