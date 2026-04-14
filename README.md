@@ -5,7 +5,8 @@ I am a CSE-AI undergraduate at the Manipal Institute of Technology (MIT) special
 
 ### 🚀 Flagship Project
 * **[Event-Driven Multi-Asset Quantitative Backtesting Engine with ML Signal Filtering
-](https://github.com/ASHIL-MASCARENHAS/quant-event-backtester):*   **Architecture:** Developed a modular, event-driven engine with decoupled components (**DataHandler, Strategy, Portfolio, Execution**) for scalable multi-asset simulation.
+](https://github.com/ASHIL-MASCARENHAS/quant-event-backtester):**
+    *    **Architecture:** Developed a modular, event-driven engine with decoupled components (**DataHandler, Strategy, Portfolio, Execution**) for scalable multi-asset simulation.
     *   **Data Integrity:** Built a vectorized ETL pipeline with strict validation checks to eliminate **lookahead bias** and ensure data high-fidelity.
     *   **ML Filtering:** Integrated **Logistic Regression** signal filtering with a custom feature pipeline to refine execution accuracy and reduce noise.
     *   **Validation:** Evaluated performance via **Sharpe ratio**, drawdown analysis, and rigorous out-of-sample benchmarking.
