@@ -1,7 +1,7 @@
 # Ashil Mascarenhas
-**Product Analytics | Data Engineering | Marketplace Economics**
+**ML & Quantitative Systems | Event-Driven Backtesting | Probability & Statistical Modeling**
 
-I am a CSE-AI undergraduate at the Manipal Institute of Technology (MIT) specializing in the intersection of heavy data engineering and product strategy. I build scalable pipelines to process massive datasets and translate complex statistical models into actionable business metrics.
+Building systems at the intersection of ML, probability, and quantitative engineering. Currently working on an event-driven backtesting engine, statistical modeling workflows, and research-oriented projects.
 
 ### 🚀 Flagship Project
 * **[Event-Driven Multi-Asset Quantitative Backtesting Engine with ML Signal Filtering
