@@ -1,28 +1,25 @@
-# Ashil Mascarenhas
-**ML & Quantitative Systems | Event-Driven Backtesting | Probability & Statistical Modeling**
+# Hi, I'm Ashil Mascarenhas ⚙️📈
 
-Building systems at the intersection of ML, probability, and quantitative engineering. Currently working on an event-driven backtesting engine, statistical modeling workflows, and research-oriented projects.
+I am a quantitative systems engineer and AI researcher focusing on **High-Performance Financial Computing** and **Market Microstructure**. I build low-latency pricing engines in C++23 and causal event-driven ML pipelines in PyTorch.
 
-### 🚀 Flagship Project
-* **[Event-Driven Multi-Asset Quantitative Backtesting Engine with ML Signal Filtering
-](https://github.com/ASHIL-MASCARENHAS/quant-event-backtester):**
-    *    **Architecture:** Developed a modular, event-driven engine with decoupled components (**DataHandler, Strategy, Portfolio, Execution**) for scalable multi-asset simulation.
-    *   **Data Integrity:** Built a vectorized ETL pipeline with strict validation checks to eliminate **lookahead bias** and ensure data high-fidelity.
-    *   **ML Filtering:** Integrated **Logistic Regression** signal filtering with a custom feature pipeline to refine execution accuracy and reduce noise.
-    *   **Validation:** Evaluated performance via **Sharpe ratio**, drawdown analysis, and rigorous out-of-sample benchmarking.
+### 🛠️ Tech Stack
+* **Languages:** C++23, Python, Java, SQL
+* **Quant & ML:** PyTorch, Pandas, NumPy, SciPy, scikit-learn
+* **Infrastructure:** Pybind11, FastAPI, Streamlit, Git
 
+---
 
-* **[Dynamic Surge Pricing & Marketplace Optimization Engine](https://github.com/ASHIL-MASCARENHAS/Dynamic-Surge-Pricing-Engine):** Engineered a dynamic pricing algorithm from scratch using **DuckDB** to process 30M+ rows of mobility data in-memory. Authored advanced SQL Window Functions to calculate rolling demand spikes and simulated an $8.3M (+5.51%) GMV lift while factoring in price elasticity constraints to protect LTV.
+### 🚀 Flagship Projects
 
-### 🧠 Core Focus
-* **Product Analytics:** Translating raw database tables into revenue strategies, cohort retention models, and A/B testing frameworks.
-* **Data Engineering:** Bypassing standard Pandas limitations by utilizing modern OLAP tools (DuckDB) and SQL CTEs to handle high-volume data aggregation.
-* **Quantitative Modelling:** Applying probability and statistical modelling to solve real-world marketplace liquidity problems.
+#### 1. [High-Frequency Options Pricing Engine & Microservice]
+An ultra-fast options pricing core built in modern `C++23` utilizing Black-Scholes mathematics to compute price and Greeks (Delta, Gamma, Vega). 
+* **Architecture:** Compiled into a shared library via `Pybind11` and served to a web frontend using a `FastAPI` Python backend.
+* **Performance:** Replaces slow Python loops with bare-metal C++ execution for portfolio simulations.
 
-### 🛠️ Technical Stack
-* **Data Ecosystem:** SQL (Advanced Window Functions), DuckDB, Pandas, Scikit-Learn
-* **Languages:** Python, C++, Java
-* **BI & Visualization:** Matplotlib, Seaborn, Excel, Power BI
-* **Infrastructure:** Git, Linux/Bash, ETL Pipelines
+#### 2. [LOB Liquidity Void Detection Dashboard]
+A research-driven market microstructure framework applying computer vision physics to Limit Order Books (FI-2010 dataset). 
+* **Architecture:** Utilizes `PyTorch` (RAFT optical flow) to treat LOBs as dynamic 2D liquidity fields, computing vector divergence to detect structural instability.
+* **Extraction:** Features a dynamic, causal Z-score filtration system to identify early precursor patterns of market flash-crashes without look-ahead bias.
 
-📫 **Reach me at:** [ashilmascarenhas@gmail.com](mailto:ashilmascarenhas@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ashil-mascarenhas/) | [Portfolio](https://portfolio.builtbyashil.site/)
+---
+📫 **Contact:** [LinkedIn](https://www.linkedin.com/in/ashil-mascarenhas/) | ashilmascarenhas@gmail.com
