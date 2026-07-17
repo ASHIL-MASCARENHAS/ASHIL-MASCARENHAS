@@ -11,7 +11,7 @@ I am a quantitative systems engineer and AI researcher focusing on **High-Perfor
 
 ### 🚀 Flagship Projects
 
-#### 1. [High-Frequency Options Pricing Engine & Microservice]
+#### 1. [High-Frequency Options Pricing Engine & Microservice](https://github.com/ASHIL-MASCARENHAS/QuantForge)
 An ultra-fast options pricing core built in modern `C++23` utilizing Black-Scholes mathematics to compute price and Greeks (Delta, Gamma, Vega). 
 * **Architecture:** Compiled into a shared library via `Pybind11` and served to a web frontend using a `FastAPI` Python backend.
 * **Performance:** Replaces slow Python loops with bare-metal C++ execution for portfolio simulations.
